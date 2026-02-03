@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personen/brauermeister-glowkindle/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/personen/brauermeister-glowkindle/","tags":["gardenEntry"]"title":"Glowkindle"}
 ---
 
 
