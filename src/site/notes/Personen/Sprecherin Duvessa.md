@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personen/sprecherin-duvessa/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/personen/sprecherin-duvessa/","tags":["gardenEntry"],"title":"Personen"}
 ---
 
 
