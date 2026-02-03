@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welt/wahrheiten/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welt/wahrheiten/","tags":["gardenEntry"],"title":"Wahrheiten"}
 ---
 
 - Die Sonne ist seit zwei Jahren nicht mehr aufgegangen.  
