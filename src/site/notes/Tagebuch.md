@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tagebuch/","tags":["gardenEntry"],"title":"Tagenuch"}
+{"dg-publish":true,"permalink":"/Tagebuch/","title":"Tagebuch","tags":["gardenEntry"]}
 ---
 
 ### Prolog – Der Weg ins Eiswindtal
