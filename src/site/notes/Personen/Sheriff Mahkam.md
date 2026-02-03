@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personen/sheriff-mahkam/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/personen/sheriff-mahkam/","tags":["gardenEntry"],"title":"Mahkam"}
 ---
 
 
