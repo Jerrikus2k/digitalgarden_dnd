@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/01-allgemein/startseite/","title":"Startseite Eiswindtal","tags":["gardenEntry"]}
+---
+
+
+# **Wahrheiten über das Eiswindtal**
+
+- Die Sonne ist seit zwei Jahren nicht mehr aufgegangen.  
+- Die endlose Nacht hat den gefrorenen Norden von der Schwertküste abgeschnitten.
+- Die Kinder Aurils fordern im Namen der Frostjungfer blutige Opfer von den Menschen der Zehn Städte.  
+- Tief unter dem Eis schlummern uralte, mächtige Geheimnisse.
+- In den Bergen lauern schattenhafte Gestalten, ihr Hämmern hallt durch die Dunkelheit – auf schwarzem, fremdartigem Metall schmieden sie etwas Unheilvolles.
+
+
+ ## **Überblick des Eiswindtales**
+
+[<img src="https://5e.tools/img/adventure/IDRotF/263-icewind-dale.webp" alt="Eiswindtal">](https://5e.tools/img/adventure/IDRotF/263-icewind-dale.webp)
+
